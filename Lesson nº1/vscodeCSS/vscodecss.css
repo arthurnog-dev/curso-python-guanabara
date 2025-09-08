@@ -1,9 +1,0 @@
-/* Degradê no fundo do editor */
-.monaco-workbench {
-    background: linear-gradient(to right, #ff7e5f, #feb47b);
-}
-
-/* Mantém o fundo do editor transparente para ver o degradê */
-.editor-background {
-    background-color: transparent !important;
-}
